@@ -48,6 +48,7 @@
         }
         ?>
 
+        <!-- Add Product Form Card -->
         <div class="card shadow-sm mb-4">
             <div class="card-header bg-primary text-white">
                 <h5 class="mb-0">Add New Product</h5>
@@ -83,6 +84,7 @@
                 </form>
             </div>
 
+            <!-- Inventory Items Table Card -->
             <div class="card shadow-sm">
                 <div class="card-header bg-success text-white">
                     <h5 class="mb-0">Inventory Items</h5>
